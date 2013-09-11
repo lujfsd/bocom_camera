@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # NOTE! Don't add files that are generated in specific
 # subdirectories here. Add them in the ".gitignore" file
@@ -77,3 +78,22 @@ GTAGS
 *.orig
 *~
 \#*#
+=======
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 316bc1a4c665ffec48cec938d542c56ff8e62fda
